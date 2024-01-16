@@ -1,4 +1,3 @@
 SpringBoot application for a simple full-stack finance application that would track users, manage user portfolios, and allow users to manage what assets belong to a given portfolio.
 
-ERD:
-![alt text]([http://url/to/img.png](https://github.com/dillon32/TradeCrazeAPI/blob/main/ERD.png)https://github.com/dillon32/TradeCrazeAPI/blob/main/ERD.png)
+![ERD](https://github.com/dillon32/TradeCrazeAPI/blob/main/ERD.png)
